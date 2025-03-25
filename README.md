@@ -2,3 +2,6 @@
   <b><i>Your Text</i></b>
 </div>
 
+> ***Bold Italic Text with a Bordered Look***
+> **************************************
+
